@@ -15,7 +15,7 @@ RENDERS DEL PROYECTO:
 ![render 6](https://github.com/KamikazeSoluciones/ChimneaBoost/assets/89432904/8d0a827f-cf3a-4ff9-9a7e-94d4a0add81f)
 
 ESQUEMA GENERAL: El archivo Drawing.jpg muestra un esquema general del circuito electrónico, destacando la conexión de componentes electricos.  
-
+![Drawing](https://github.com/KamikazeSoluciones/ChimneaBoost/assets/89432904/12399f9a-4a3e-426d-9b47-c7c2413d3d71)
 LISTA DE COMPONENTES:
 
 (1) Arduino Nano
