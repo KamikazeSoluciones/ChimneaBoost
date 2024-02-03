@@ -1,5 +1,6 @@
 "DISPOSITIVO ACELERADOR DE FUEGO EN CHIMENEA CON ARDUINO"
 Este repositorio contiene la documentación y código fuente para un dispositivo innovador que utiliza un Arduino Nano para controlar un ventilador de secador de pelo reciclado, optimizando la combustión en una chimenea. Este README proporciona información detallada sobre el proyecto, los componentes utilizados y cómo implementarlo.
+
 CONTENIDO DEL REPOSITORIO:
 CÓDIGO DEL ARDUINO:
     El archivo Chimenea_con_pulsador.ino contiene el código fuente para el Arduino Nano.
@@ -11,7 +12,10 @@ DOCUMENTACIÓN:
      
 RENDERS DEL PROYECTO:
     Imagenes Renderizadas en Blender, con imágenes renderizadas del proyecto para una visualización detallada.
-  ESQUEMA GENERAL: El archivo Drawing.jpg muestra un esquema general del circuito electrónico, destacando la conexión de componentes electricos.  
+![render 6](https://github.com/KamikazeSoluciones/ChimneaBoost/assets/89432904/8d0a827f-cf3a-4ff9-9a7e-94d4a0add81f)
+
+ESQUEMA GENERAL: El archivo Drawing.jpg muestra un esquema general del circuito electrónico, destacando la conexión de componentes electricos.  
+
 LISTA DE COMPONENTES:
 
 (1) Arduino Nano
