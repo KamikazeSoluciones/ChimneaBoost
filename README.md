@@ -42,7 +42,7 @@ Abre el codigo Chimenea_con_pulsador.ino en el IDE de Arduino y carga el código
 CONEXIÓN DE COMPONENTES:
     Sigue el esquema general (Schematic_Fireplace .png) para conectar los componentes correctamente.
     Asegúrate de seguir las instrucciones específicas para el TIP122 y el disipador de calor.
- 
+ ![Schematic_Fireplace ](https://github.com/KamikazeSoluciones/ChimneaBoost/assets/89432904/5dd7efb6-470c-4b04-aa97-31ab52373fc2)
 FUNCIONAMIENTO DEL PROYECTO:
     Enciende el interruptor de ON/OFF y selecciona el modo deseado con el interruptor Manual/Automático.
 
